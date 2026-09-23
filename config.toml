@@ -40,7 +40,7 @@ dpi = "120-640dpi"
 
 [GooglePhotos]
 build-mode = "both"
-version = "latest"
+version = "7.93.0.982110057"
 patches-source = "RookieEnough/De-Vanced"
 rv-brand = "DeVanced"
 cli-source = "MorpheApp/morphe-cli"
